@@ -51,13 +51,9 @@ letters.append('d')
 
 #Jake, index a list under this comment
 
-<<<<<<< HEAD
 # Hi everyone. It's Ian. 
 
 
 print('Ian forgot me ☺')
-=======
 # This is ians test upload=
 print('[Hello]')
-]
->>>>>>> main
