@@ -31,6 +31,8 @@ print(":3")
 f = open('branches-practice/words.txt', 'r')
 
 #Christian, create a ranged for loop under this comment
+for i in range(10):
+    print(i)
 
 #Fayaz, create a simple program under this comment that incorporates your name
 
