@@ -28,6 +28,17 @@ import pandas as pd
 #Ricky, throw in one of our API calls under this comment
 
 #Sharon, create a list of dictionaries under this comment
+list_of_dicts = [
+    {
+        1: "one",
+        2: "two",
+        3: "three"
+    },
+    {
+        "key1": "value1",
+        "key2": "value2"
+    }
+]
 
 #Toyice, use a string method under this comment
 
