@@ -11,7 +11,16 @@ pizza = ["cheese", "pepperoni", "mushroom", "deep dish", "white", "sausage"]
 #Nicholas (DeMatteo), import a library under this comment
 
 
+=======
+import pandas as pd
+>>>>>>> main
 #Talia, create a simple function under this comment
+list_one = [1, 1, 2, 4, 5, 13, 23]
+
+def simple(list_one):
+    sort = sorted(set(list_one))
+    return sort
+print(simple(list_one))
 
 #Jonathan, create a dictionary under this comment
 
@@ -37,4 +46,6 @@ pizza = ["cheese", "pepperoni", "mushroom", "deep dish", "white", "sausage"]
 
 #Jake, index a list under this comment
 
-# Hi everyone. It's Ian. 
+# This is ians test upload=
+print('[Hello]')
+]
