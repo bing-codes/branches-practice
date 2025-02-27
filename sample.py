@@ -14,7 +14,7 @@
 #Jonathan, create a dictionary under this comment
 
 #Corey, print of something silly under this comment
-
+print(":3") 
 #Nicholas (Guarino), create a short conditonal block under this comment
 
 #Aidan, randomly choose a number using random under this comment
