@@ -1,0 +1,25 @@
+You can find any tutorials regarding branches, pull requests, and general
+github information via their tutorial site docs.github.com
+
+About branches link:
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
+
+The basics of what you need to know:
+    *You will be creating a shared repo for your final project, that will be coded
+        in the main branch by default. (Imagine a tree, the main branch is the trunk)
+
+    *You CANNOT all be making changes to that main branch at the same time, this will
+        create errors, as github's entire job is to make sure that you are not overriding
+        and creating conflicting files
+
+    *The most simple solution to this is for you to have a main folder that contains the
+        current version of the code, and to create folders for each individual group member
+        to work in. Then, you can manually copy & paste the code you want into that main folder
+        which ensures that everyone can be working on code at the same time, but you won't 
+        get any conflicts
+
+    *The more advanced solution to this is to create branches off the main branch, where you can code on 
+        your own, experiment, change things, etc. This is like a branch off the main trunk. It allows you 
+        to edit & update the main coding file. When you have finished the changes you wanted to make, you simply
+        create a pull request. The owner of the repo then will review the changes as accept, or reject, anything
+        before it is merged with the original, main branch.
