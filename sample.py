@@ -18,6 +18,9 @@
 #Nicholas (Guarino), create a short conditonal block under this comment
 
 #Aidan, randomly choose a number using random under this comment
+import random
+num = random.randint(1,100)
+print(num)
 
 #Mina, import a .txt file of your choosing under this comment, make sure the file is in the repo too
 
