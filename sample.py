@@ -12,10 +12,8 @@ pizza = ["cheese", "pepperoni", "mushroom", "deep dish", "white", "sausage"]
 
 #Nicholas (DeMatteo), import a library under this comment
 
-
-=======
 import pandas as pd
->>>>>>> main
+
 #Talia, create a simple function under this comment
 list_one = [1, 1, 2, 4, 5, 13, 23]
 
