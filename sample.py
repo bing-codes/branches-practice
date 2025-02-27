@@ -35,4 +35,13 @@
 
 #Jake, index a list under this comment
 
+#Cate (I'm going to use an input function)
+hunger = int(input("On a scale from 1 to 10, how hungry are you right now?"))
+if hunger >= 1 and hunger <5:
+    print("wait for lunchtime")
+elif hunger >=5 and hunger <= 10:
+    print("go eat")
+else:
+    print("not a valid answer")
+
 # Hi everyone. It's Ian. 
