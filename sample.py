@@ -28,6 +28,7 @@ print(":3")
 #Aidan, randomly choose a number using random under this comment
 
 #Mina, import a .txt file of your choosing under this comment, make sure the file is in the repo too
+f = open('branches-practice/words.txt', 'r')
 
 #Christian, create a ranged for loop under this comment
 
