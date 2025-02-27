@@ -6,8 +6,10 @@
 #Charlie, write a while loop under this comment
 
 #Matthew (D'Angelo), write a list under this comment
+pizza = ["cheese", "pepperoni", "mushroom", "deep dish", "white", "sausage"]
 
 #Nicholas (DeMatteo), import a library under this comment
+
 
 #Talia, create a simple function under this comment
 
