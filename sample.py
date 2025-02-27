@@ -2,6 +2,8 @@
 #to keep things less chaotic, I'm giving you each a little bit of code to write
 
 #Beatrice, write a for loop under this comment
+for i in range(0,6):
+    print(i)
 
 #Charlie, write a while loop under this comment
 
