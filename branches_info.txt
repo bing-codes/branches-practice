@@ -4,6 +4,9 @@ github information via their tutorial site docs.github.com
 About branches link:
 https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
 
+Step-by-step how to make a branch link:
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository
+
 The basics of what you need to know:
     *You will be creating a shared repo for your final project, that will be coded
         in the main branch by default. (Imagine a tree, the main branch is the trunk)
