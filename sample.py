@@ -30,6 +30,8 @@
 #Sharon, create a list of dictionaries under this comment
 
 #Toyice, use a string method under this comment
+my_string = "Hey there"
+my_string.replace("there", "what's up")
 
 #Will, use a list method under this comment
 
