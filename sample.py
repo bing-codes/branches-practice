@@ -16,7 +16,11 @@
 #Corey, print of something silly under this comment
 
 #Nicholas (Guarino), create a short conditonal block under this comment
-
+age = 18
+if age >= 18:
+    print("is an adult")
+else:
+    print("is a kid")
 #Aidan, randomly choose a number using random under this comment
 
 #Mina, import a .txt file of your choosing under this comment, make sure the file is in the repo too
