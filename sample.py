@@ -22,6 +22,8 @@
 #Mina, import a .txt file of your choosing under this comment, make sure the file is in the repo too
 
 #Christian, create a ranged for loop under this comment
+for i in range(10):
+    print(i)
 
 #Fayaz, create a simple program under this comment that incorporates your name
 
