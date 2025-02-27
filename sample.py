@@ -8,7 +8,7 @@
 #Matthew (D'Angelo), write a list under this comment
 
 #Nicholas (DeMatteo), import a library under this comment
-
+import pandas as pd
 #Talia, create a simple function under this comment
 
 #Jonathan, create a dictionary under this comment
@@ -35,7 +35,13 @@
 
 #Jake, index a list under this comment
 
+<<<<<<< HEAD
 # Hi everyone. It's Ian. 
 
 
 print('Ian forgot me ☺')
+=======
+# This is ians test upload=
+print('[Hello]')
+]
+>>>>>>> main
