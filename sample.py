@@ -40,6 +40,8 @@ print(simple(list_one))
 #Toyice, use a string method under this comment
 
 #Will, use a list method under this comment
+letters = ['a', 'b', 'c']
+letters.append('d')
 
 #Jake, index a list under this comment
 
