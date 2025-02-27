@@ -26,6 +26,15 @@
 #Fayaz, create a simple program under this comment that incorporates your name
 
 #Ricky, throw in one of our API calls under this comment
+import requests
+
+lat = "42.098701"
+lon = "-75.912537"
+
+lat_lon_url = f'https://api.weather.gov/points/{lat},{lon}'
+request = requests.get(lat_lon_url)
+
+print(request.status_code)
 
 #Sharon, create a list of dictionaries under this comment
 
