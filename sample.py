@@ -10,6 +10,12 @@
 #Nicholas (DeMatteo), import a library under this comment
 import pandas as pd
 #Talia, create a simple function under this comment
+list_one = [1, 1, 2, 4, 5, 13, 23]
+
+def simple(list_one):
+    sort = sorted(set(list_one))
+    return sort
+print(simple(list_one))
 
 #Jonathan, create a dictionary under this comment
 
