@@ -24,6 +24,10 @@
 #Christian, create a ranged for loop under this comment
 
 #Fayaz, create a simple program under this comment that incorporates your name
+name = "Fayaz"
+def namereverser(name):
+    reverse = name[::-1]
+    print (reverse)
 
 #Ricky, throw in one of our API calls under this comment
 
