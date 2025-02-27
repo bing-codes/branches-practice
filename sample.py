@@ -20,7 +20,7 @@ def simple(list_one):
 print(simple(list_one))
 
 #Jonathan, create a dictionary under this comment
-
+dict_1 = {"Jonathan": 18, "Ben": 14, "Jeff": 16, "Mark": 12}
 #Corey, print of something silly under this comment
 print(":3") 
 #Nicholas (Guarino), create a short conditonal block under this comment
